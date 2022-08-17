@@ -50,7 +50,7 @@ const Number = () => {
           <Center>{number}</Center>
         </Heading>
         {isLoading ? (
-          <Spinner />
+          <Spinner color={darkMode ? "white" : "black"} />
         ) : (
           <Text
             fontSize="3xl"
