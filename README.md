@@ -1,10 +1,16 @@
 
 # Screenshots
 
+### `Dark mode`
+![8](https://user-images.githubusercontent.com/63926259/185107296-74fd032d-9966-4c31-8dbe-7165483a2514.JPG)
 
 ![Screenshot 2022-08-17 121622](https://user-images.githubusercontent.com/63926259/185107286-84637601-ea18-4aa4-bb07-44f7cafee93f.png)
+
+### `Light mode`
+![Capture666](https://user-images.githubusercontent.com/63926259/185107746-4edbfbaa-5de7-4cfa-9abf-35d92b2a3f79.JPG)
+
 ![6](https://user-images.githubusercontent.com/63926259/185107291-26230e2f-683d-4696-8f4c-e5f7c91c8245.png)
-![8](https://user-images.githubusercontent.com/63926259/185107296-74fd032d-9966-4c31-8dbe-7165483a2514.JPG)
+
 
 
 
